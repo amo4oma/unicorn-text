@@ -795,4 +795,13 @@ input[type="range"]::-webkit-slider-thumb {
   .swiper-container {
     height: 100%;
   }
+  .hero-header {
+    margin-left: 10px;
+  }
+  .steps-header {
+    padding: 10px;
+  }
+  .steps-paragraph {
+    padding: 10px;
+  }
 }
